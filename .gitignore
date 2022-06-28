@@ -1,0 +1,17 @@
+.mason/bricks.json
+test/HELLO.md
+test/lib/src/features/demo/data/data_sources/demo_remote_data_source.dart
+test/lib/src/features/demo/data/models/demo_model.dart
+test/lib/src/features/demo/data/repositories/demo_repository_impl.dart
+test/lib/src/features/demo/domain/entities/demo_entity.dart
+test/lib/src/features/demo/domain/repositories/demo_repository.dart
+test/lib/src/features/demo/domain/use_cases/demo_use_case.dart
+test/lib/src/features/demo/presentation/cubit/demo_cubit.dart
+test/lib/src/features/demo/presentation/cubit/demo_state.dart
+test/lib/src/features/demo/presentation/pages/demo_screen.dart
+test/test/src/features/demo_test/data/data_sources/demo_remote_data_source_test.dart
+test/test/src/features/demo_test/data/models/demo_model_test.dart
+test/test/src/features/demo_test/data/repositories/demo_repository_impl_test.dart
+test/test/src/features/demo_test/domain/entities/demo_entity_test.dart
+test/test/src/features/demo_test/domain/use_cases/demo_use_case_test.dart
+test/test/src/features/demo_test/presentation/cubit/demo_cubit_test.dart
